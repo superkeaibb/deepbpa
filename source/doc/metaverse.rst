@@ -80,8 +80,8 @@ MetaVerse: 去中心化元宇宙原型系统
 3.4 长安链启动效果
 ~~~~~~~~~~~~~~~~
 .. image:: ../images/meta/changan.png
-   :alt: 长安链效果图
    :align: center
+   :alt: 长安链效果图
 
 
 
@@ -169,8 +169,9 @@ func (s *UserService) Login(c *gin.Context, params *request.LoginReq) (interface
 - **去中心化交互演示**：用户可以在去中心化平台上进行实时互动，拥有完全的资产所有权和控制权。
 
 .. image:: ../images/meta/final.gif
-   :alt: 效果展示图
    :align: center
+   :alt: 效果展示图
+
 
 
 6. 结论
