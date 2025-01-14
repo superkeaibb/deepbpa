@@ -44,6 +44,7 @@ MetaVerse: 去中心化元宇宙原型系统
 ~~~~~~~~~~~~~~~~
 
 .. code-block:: bash
+
     $ cd chainmaker-deploy/chainmaker/scripts
     $ sudo bash ./cluster_quick_start.sh
 
@@ -51,6 +52,7 @@ MetaVerse: 去中心化元宇宙原型系统
 ~~~~~~~~~~~~~~~~
 
 .. code-block:: bash
+
     # 示例代码：导入元宇宙合约
     $ sudo ./cmc client contract user create \
     --contract-name=meta_verse \
@@ -67,6 +69,7 @@ MetaVerse: 去中心化元宇宙原型系统
 ~~~~~~~~~~~~~~~~
 
 .. code-block:: bash
+
     # 示例代码：验证元宇宙合约安装成功
     $ sudo ./cmc client contract user get \
     --contract-name=meta_verse \
