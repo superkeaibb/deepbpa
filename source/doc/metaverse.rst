@@ -42,7 +42,7 @@ MetaVerse: 去中心化元宇宙原型系统
 
 3.1 启动长安链
 ~~~~~~~~~~~~~~~~
-.. code-block:: console
+.. code-block:: shell
     $ cd chainmaker-deploy/chainmaker/scripts
     $ sudo bash ./cluster_quick_start.sh
 
